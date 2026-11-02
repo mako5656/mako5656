@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**mako5656/mako5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I'm a web engineer based in Nagoya, Japan.
+- 🚀 I work on SaaS development, from planning to implementation.
+- ☁️ Interested in backend development, AWS, and product development.
+- 📫 [X](https://x.com/mako5656_i)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+
+<img src="https://skillicons.dev/icons?theme=light&perline=8&i=php,symfony,laravel,ruby,rails,ts,angular,aws,terraform,docker,mysql,postgres,github" />
+
+<br>
